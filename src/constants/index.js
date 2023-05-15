@@ -62,7 +62,7 @@ import {
       icon: web,
     },
     {
-      title: "Ads Manager",
+      title: "UI/UX Designer",
       icon: mobile,
     },
     {
