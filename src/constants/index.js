@@ -145,11 +145,11 @@ import {
       ],
     },
     {
-      title: "Junior Full Stack Developer",
+      title: "Full Stack Developer",
       company_name: "Apex Press Media",
       icon: Apex,
       iconBg: "#383E56",
-      date: "Jan 2021 - May 2022",
+      date: "Jan 2019 - May 2022",
       points: [
         "Implemented newly learned front-end object-oriented programming to develop client server systems. Hence, making it easier for data teams to access, retrieve, and analyze customer data in 30% less time",
         "Deployed AWS to allow easy iteration in company cloud infrastructure which improved online fortification of customer data and sped up the global deployment of new web applications by 150%",
