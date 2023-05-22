@@ -141,20 +141,21 @@ import {
         "Designed and implemented web applications along with 3rd party software integrations for customer facing projects which increased customer satisfaction and usability by 40%.",
         "Analyzed the team’s code in collaboration with 3 other developers to provide additional perspective and catch previously missed errors before application deployment, which shortened the time it took to deploy new web applications by 25%.",
         "Tested, debugged, and shipped 1000s of lines of code to various development teams. Hence, leading to a 100% bug-free deployment in all web applications.",
-        "Worked with PM/IM to keep on track with the project plan, timeline, and billing. On average, this saved 3 days of communication per project.",
+        "Collaborated with PM/IM to keep on track with the project plan, timeline, and billing. On average, this saved 3 days of communication per project.",
       ],
     },
     {
-      title: "Full Stack Developer",
+      title: "UI/UX Designer and Front End Developer",
       company_name: "Apex Press Media",
       icon: Apex,
       iconBg: "#383E56",
       date: "Jan 2019 - May 2022",
       points: [
         "Implemented newly learned front-end object-oriented programming to develop client server systems. Hence, making it easier for data teams to access, retrieve, and analyze customer data in 30% less time",
-        "Deployed AWS to allow easy iteration in company cloud infrastructure which improved online fortification of customer data and sped up the global deployment of new web applications by 150%",
-        "Spearheaded the use of React.JS to create 100+ responsive SEO landing pages for both company and client, which conceived a 100% increase in user traffic, and a 40% decrease in ad spend per client.",
-        "Revamped the descriptions of operations and workflow in non-technical terms, facilitating seamless functioning of non-coding teams with minimal disruption, resulting in a noteworthy 50% surge in project delivery.",
+        "Instructed a team in the graphic design, prototyping, animations, and deployment of over 10 SEO websites that reduced company ad spend by up to 50%, while improving accessibility to those with disabilities.",
+        "Managed a team in the deployment of AWS best practices to allow easy iteration in company cloud infrastructure which improved online fortification of customer data and sped up the global deployment of new web applications by 150%.",
+        "Spearheaded the use of design tools figma and adobe cc to design application prototypes, and React.JS to create 10+ responsive SEO landing pages for both company and client, which conceived a 100% increase in user traffic and a 40% decrease in ad spend per client.",
+        "Conducted comprehensive user surveys to inform the development of intuitive and impactful user interfaces tailored to the needs of diverse business clients.",
       ],
     },
   ];
@@ -176,21 +177,13 @@ import {
       company: "Doremmy Chicago",
       image: Jamin,
     },
-    /*{
-      testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
-    }, */
   ];
   
   const projects = [
     {
       name: "FIFA Live",
       description:
-        "Web-based platform that provides live soccer match updates on all major global soccer leagues and special events like the world cup and the olympics",
+        "Completed: A Web-based platform that provides live soccer match updates on all major global soccer leagues and special events like the world cup and the olympics",
       tags: [
         {
           name: "HTML",
@@ -208,6 +201,10 @@ import {
           name: "restapi",
           color: "green-text-gradient"
         },
+        {
+          name: "figma",
+          color: "pink-text-gradient"
+        }
       ],
       image: worldCup,
       source_code_link: "https://github.com/emmanuelRep/Icode",
@@ -215,7 +212,7 @@ import {
     {
       name: "DataCore",
       description:
-        "A secure web-based database management system that enables users to efficiently query, update, and manage data based on assigned permissions.",
+        "In Development: A secure web-based database management system that enables users to efficiently query, update, and manage data based on assigned permissions.",
       tags: [
         {
           name: "HTML",
@@ -233,6 +230,10 @@ import {
           name: "SQL",
           color: "blue-text-gradient",
         },
+        {
+          name: "figma",
+          color: "pink-text-gradient"
+        }
       ],
       image: data,
       source_code_link: "https://github.com/emmanuelRep/Client-ServerApp",
@@ -240,7 +241,7 @@ import {
     {
       name: "ITASC",
       description:
-        "A search engine and google ads optimized website built and hosted on wordpress for an Information Technology organization based in the San Francisco bay area.",
+        "Completed: A search engine and google ads optimized website built and hosted on wordpress for an Information Technology organization based in the San Francisco bay area.",
       tags: [
         {
           name: "wordpress",
@@ -254,6 +255,10 @@ import {
           name: "CSS",
           color: "pink-text-gradient",
         },
+        {
+          name: "figma",
+          color: "pink-text-gradient"
+        }
       ],
       image: itasc,
       source_code_link: "https://itascsolutions.com/",
