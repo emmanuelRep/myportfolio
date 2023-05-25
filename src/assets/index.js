@@ -48,6 +48,7 @@ import Jamin from "./company/Jamin.png"
 import itasc from "./itasc.png";
 import worldCup from "./worldCup.png";
 import data from "./data.png";
+import philter from "./PH MN.png";
 
 
 
@@ -96,5 +97,6 @@ export {
   carrent,
   jobit,
   tripguide,
-  Jamin
+  Jamin,
+  philter,
 };
