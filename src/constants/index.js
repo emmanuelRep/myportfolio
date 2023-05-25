@@ -205,7 +205,7 @@ import {
     {
       name: "ITASC",
       description:
-        "Completed: A search engine and google ads optimized website I designed, built, and hosted on wordpress for an Information Technology organization based in the San Francisco bay area.",
+        "Completed: I designed the UI/UX, built the website, and hosted it on wordpress for an Information Technology organization based in the San Francisco bay area.",
       tags: [
         {
           name: "wordpress",
