@@ -39,6 +39,7 @@ import {
     itasc,
     worldCup,
     data,
+    philter,
   } from "../assets";
   
   export const navLinks = [
@@ -181,33 +182,54 @@ import {
   
   const projects = [
     {
-      name: "FIFA Live",
+      name: "Philter Mobile App",
       description:
-        "Completed: A Web-based platform that provides live soccer match updates on all major global soccer leagues and special events like the world cup and the olympics",
+        "Completed: A mobile app I designed to filter spam calls, emails, and sms.",
       tags: [
         {
-          name: "HTML",
+          name: "Figma",
           color: "blue-text-gradient",
+        },
+        {
+          name: "Sheets",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Adobe CC",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: philter,
+      source_code_link: "https://nuelvpn03.wixsite.com/philter2",
+    },
+    {
+      name: "ITASC",
+      description:
+        "Completed: A search engine and google ads optimized website I designed, built, and hosted on wordpress for an Information Technology organization based in the San Francisco bay area.",
+      tags: [
+        {
+          name: "wordpress",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Javascript",
+          color: "green-text-gradient",
+        },
+        {
+          name: "HTML",
+          color: "pink-text-gradient",
         },
         {
           name: "CSS",
           color: "green-text-gradient",
         },
         {
-          name: "Javascript",
-          color: "pink-text-gradient",
-        },
-        {
-          name: "restapi",
-          color: "green-text-gradient"
-        },
-        {
           name: "figma",
           color: "pink-text-gradient"
-        }
-      ],
-      image: worldCup,
-      source_code_link: "https://github.com/emmanuelRep/Icode",
+        },
+        ],
+      image: itasc,
+      source_code_link: "https://itascsolutions.com/",
     },
     {
       name: "DataCore",
@@ -238,31 +260,7 @@ import {
       image: data,
       source_code_link: "https://github.com/emmanuelRep/Client-ServerApp",
     },
-    {
-      name: "ITASC",
-      description:
-        "Completed: A search engine and google ads optimized website built and hosted on wordpress for an Information Technology organization based in the San Francisco bay area.",
-      tags: [
-        {
-          name: "wordpress",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "googleAds",
-          color: "green-text-gradient",
-        },
-        {
-          name: "CSS",
-          color: "pink-text-gradient",
-        },
-        {
-          name: "figma",
-          color: "pink-text-gradient"
-        }
-      ],
-      image: itasc,
-      source_code_link: "https://itascsolutions.com/",
-    },
+      
   ];
   
   export { services, technologies, experiences, testimonials, projects };
