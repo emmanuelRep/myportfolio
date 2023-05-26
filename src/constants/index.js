@@ -184,7 +184,7 @@ import {
     {
       name: "Philter Mobile App",
       description:
-        "Completed: A mobile app I designed to filter spam calls, emails, and sms.",
+        "Completed: Introducing my spam filter mobile app, blocking unwanted calls, emails, and SMS messages with ease. Regain control of your digital interactions effortlessly.",
       tags: [
         {
           name: "Figma",
@@ -205,15 +205,11 @@ import {
     {
       name: "ITASC",
       description:
-        "Completed: I designed the UI/UX, built the website, and hosted it on wordpress for an Information Technology organization based in the San Francisco bay area.",
+        "Completed: I designed the UI/UX, developed, and hosted a WordPress website for a San Francisco Bay Area IT organization.",
       tags: [
         {
           name: "wordpress",
           color: "blue-text-gradient",
-        },
-        {
-          name: "Javascript",
-          color: "green-text-gradient",
         },
         {
           name: "HTML",
