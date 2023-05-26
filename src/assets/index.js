@@ -96,6 +96,6 @@ export {
   carrent,
   jobit,
   tripguide,
-  Jamin
-  philter
+  Jamin,
+  philter,
 };
