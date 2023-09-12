@@ -49,7 +49,13 @@ import itasc from "./itasc.png";
 import worldCup from "./worldCup.png";
 import data from "./data.png";
 import philter from "./PH MN.png";
-
+import material from './material.png';
+import browser from './browser.png';
+import itascMain from './itascMain.png';
+import movieLand from './movieLand.png';
+import novviMain from './novviMain.png';
+import shot from './365Shot.png';
+import memeGen from './memeGen.png';
 
 
 
@@ -99,4 +105,11 @@ export {
   tripguide,
   Jamin,
   philter,
+  material,
+  browser,
+  itascMain,
+  novviMain,
+  movieLand,
+  shot,
+  memeGen,
 };

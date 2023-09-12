@@ -51,7 +51,7 @@ const About = () => {
           className="mt-4 text-secondary text-[17px]
           max-w-3xl leading-[30px]"
         >
-          As a versatile front-end developer and experienced ads manager, I bring a unique blend of technical expertise and creative insight to every project. My skills in website design, development, and optimization, combined with my expertise in creating and managing successful advertising campaigns, enable me to deliver high-impact digital experiences that drive results. With a passion for staying up-to-date with emerging trends and technologies, I am committed to creating innovative solutions that exceed client expectations and help businesses achieve their goals. 
+          As a versatile front-end developer and UI/UX designer, I bring a unique blend of technical expertise and creative insight to every project. My skills in web application design, development, and optimization, enable me to deliver high-impact digital experiences that ensure maximum customer satisfaction. With a passion for staying up-to-date with emerging trends and technologies, I am committed to creating innovative web applications that exceed client expectations and help businesses achieve their goals. 
         </motion.p>
 
         <div className="mt-20 flex flex-wrap gap-10">
