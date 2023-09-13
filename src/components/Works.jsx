@@ -81,15 +81,15 @@ const ProjectCard = ({index, name, description, tags, image, source_code_link, l
 const Works = () => {
   return (
     <>
-    <motion.div variants={textVariant()}>
+    <div>
       <p className={styles.sectionSubText}>
                   My Work</p>
       <h2 className={styles.sectionHeadText}>
                   Projects.</h2>
-      </motion.div>
+      </div>
 
       <div className='w-full flex'>
-        <motion.p
+        <p
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
@@ -97,7 +97,7 @@ const Works = () => {
           Additionally, I am constantly seeking new opportunities for growth and development 
           to continually improve my skills and stay up-to-date with industry advancements.
 
-        </motion.p>
+        </p>
       </div>
 
     <div className='mt-20 flex flex-wrap gap-7'>
