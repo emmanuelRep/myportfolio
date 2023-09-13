@@ -9,9 +9,15 @@ import {SecWrap} from '../hoc';
 import {projects} from '../constants';
 import { fadeIn, textVariant } from '../utils/motion';
 
+
+const flex = {
+  display: 'flex',
+  flexWrap: 'wrap',
+}
+
 const ProjectCard = ({index, name, description, tags, image, source_code_link, live_code_link }) => {
   return (
-    <motion.div variants={fadeIn("up", "spring", index * 0.5, 0.75)}>
+    <div className='project-card' style={flex}>
       <Tilt
         options = {{
           max: 45,
@@ -66,7 +72,7 @@ const ProjectCard = ({index, name, description, tags, image, source_code_link, l
         </div>
 
         </Tilt> 
-    </motion.div>
+    </div>
   )
 }
 
