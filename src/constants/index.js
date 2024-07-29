@@ -29,6 +29,18 @@
       movieLand,
       shot,
       memeGen,
+      typescript,
+      scss,
+      jira,
+      nightwatch,
+      angular,
+      circleci,
+      html5,
+      qwil,
+      lsq,
+      lsq1,
+      qwil1,
+      napa1,
     } from "../assets";
     
     export const navLinks = [
@@ -68,7 +80,7 @@
     const technologies = [
       {
         name: "HTML 5",
-        icon: html,
+        icon: html5,
       },
       {
         name: "CSS 3",
@@ -79,36 +91,36 @@
         icon: javascript,
       },
       {
+        name: "Typescript",
+        icon: typescript
+      },
+      {
         name: "React JS",
         icon: reactjs,
       },
       {
-        name: "Material UI",
-        icon: material,
+        name: "Angular",
+        icon: angular,
       },
       {
-        name: "Tailwind CSS",
-        icon: tailwind,
-      },
-      {
-        name: "Three JS",
-        icon: threejs,
+        name: "SCSS",
+        icon: scss,
       },
       {
         name: "Figma",
         icon: figma,
       },
       {
-        name: "Java",
-        icon: java,
-      },
-      {
-        name: "SQL",
-        icon: sql,
+        name: "nightwatchJS",
+        icon: nightwatch,
       },
       {
         name: "git",
         icon: git,
+      },
+      {
+        name: "circleci",
+        icon: circleci
       },
       {
         name: "aws",
@@ -122,44 +134,44 @@
     
     const experiences = [
       {
-        title: "Freelance UI and Front-End Developer",
-        company_name: "Novvi Properties",
-        icon: lavner,
+        title: "Front-End Developer",
+        company_name: "LSQ",
+        icon: lsq,
         iconBg: "#383E56",
-        date: "July 2023 - Present",
+        date: "September 2023 - Present",
         points: [
-          "Leading Agile/SCRUM stakeholder meetings to define project goals, and gather insights for a cross-platform, mobile-friendly website, that will result in streamlined decision-making and accelerated development.",
-          "Collaborating with the Marketing Director to create a user persona and roadmap for high-end clients, which will result in tailored wireframes and Figma models that ensure an exceptional user experience.",
-          "Developing dynamic React.js front-end to efficiently render and manage Salesforce CRM data in JSON format alongside multiple reusable components that will lead to a reduced load time and improved user experience.",
-          "Employing AppContext for streamlined state management and GIT for versioning. Hence, enhancing performance while avoiding prop drilling.",
-          "Leveraging the Google Maps API to dynamically display over 50 property listings on an interactive map, to enhance the user's location-based search experience.",
-          "Utilizing Material UI API for cross-platform compatibility, ensuring consistent and responsive design across mobile and tablet versions.",
+          "Developing 150+ UI/UX designs into scalable and highly responsive usable angular applications to enhance the user experience of over 200+ clients and employees.",
+          "Participating in Agile/SCRUM meetings with project managers and UI/UX designers to obtain concise project directions in a SPRINT manner. Hence, ensuring consistent on-time project deliveries.",
+          "Integrating angular frontend components with .NET and Go APIs to consume data in a RESTful manner. Leading to advances and simplifications in user experience.",
+          "Integrated Snyk testing into the CI/CD pipeline to secure and prevent the deployments of over 1000 outdated dependencies to production.",
         ],
       },
       {
-        title: "Front-End Developer Intern",
-        company_name: "Lavner Education",
-        icon: lavner,
+        title: "Front-End Developer",
+        company_name: "Qwil",
+        icon: qwil,
         iconBg: "#383E56",
-        date: "May 2022 - August 2022",
+        date: "October 2023 - Present",
         points: [
-          "Coordinated closely with the Summer Director to ensure the timely delivery of React code to over 5 camps, ensuring they were prepared for daily lectures.",
-          "Cooperated with other team members to diligently debug over 5 react code versions daily, ensuring they remained consistently bug-free and lecture ready.",
-          "Led the design and development of web user interfaces using React, serving as educational tools for over 300 children across 15 camps. Hence, leading to a strong foundational understanding of React among the students.",
+          "Collaborating with a team of backend developers to develop user-facing multi-factor authentication to strengthen user account security, leading to a 100% drop in payment account breaches.",
+          "Optimizing class-based react applications to speed up user account sign-in flow by 80%.",
+          "Leading front-end development of custom client-facing applications to personalize the experience of over 10 new clients.",
+          "Integrating Firebase and Django API with the front-end to secure new clients within Google Cloud.",
+          "Utilized Nightwatch JS for e2e and unit testing on projects to simulate user experience and ensure that 1000s of lines of code all function flawlessly."
         ]
       },
       {
         title: "Freelance UI and Front-End Developer",
-        company_name: "ITASC Solutions",
+        company_name: "Contractor",
         icon: Apex,
         iconBg: "#383E56",
-        date: "December 2021 – May 2022",
+        date: "December 2021 – September 2023",
         points: [
-          "Crafted a tailored WordPress website aligned with client specifications, catering to the B2B model of ITASC Solutions.",
-          "Initiated Agile stakeholder meetings to collaborate with key stakeholders at ITASC Solutions, defining project objectives and aligning development priorities. Hence, leading to a 40% reduction in development time.",
-          "Designed and implemented a Become-a-Partner pipeline, resulting in a remarkable 80% boost in business partnership strength.",
-          "Customized HTML, CSS, and JavaScript to enhance performance, cross-platform compatibility, and responsive design, resulting in a user-focused and standards-compliant website.",
-          "Leveraged SEMrush for SEO optimization of the website, resulting in an impressive 40% increase in Google rankings for the client's favored compliance services",
+          "Led Agile/SCRUM stakeholder meetings for over 4 clients to define project goals, and gather data-driven insights which sped up development and reduced delivery time by over 3 weeks.",
+          "Developed dynamic React.js applications to consume Salesforce API data for a leading Dubai-based real estate client, which resulted in the successful rendering of over 50 property listings for clients, and drove company interactions up by over 70%.",
+          "Employed GIT for versioning 1000s of lines of code. Hence, ensuring effective quality assurance and a 100% bug-free deployment.",
+          "Leveraged the Google Maps API to dynamically display over 50 real estate properties in an interactive map format, which enhanced user location-based search experience and a 100% increase in site traffic.",
+          "Utilized Material UI for cross-platform compatibility, ensuring consistent and responsive design across mobile and tablet versions for clients.",
         ],
       },
     ];
@@ -167,18 +179,18 @@
     const testimonials = [
       {
         testimonial:
-          "Emmanuel is incredibly detailed and passionate about what he does, and it shows in the quality of his designs and work.",
-        name: "Dana Singer",
-        designation: "Director",
-        company: "Lavner Education",
+          "Emmanuel is incredibly detailed and passionate about what he does, and it shows in the quality of his work.",
+        name: "Nik Tzaprev",
+        designation: "Developer Manager",
+        company: "LSQ",
         image: "https://randomuser.me/api/portraits/men/5.jpg",
       },
       {
         testimonial:
-          "Emmanuel cares about his work and clients. He built up our ecommerce store from the ground up and got us hundreds of new visitors per day when he ran our online marketing.",
-        name: "Benjamin Olis",
-        designation: "COO",
-        company: "Doremmy",
+          "Emmanuel is a highly critical developer that is not afraid to take on new challenges.",
+        name: "Chris Fontaine",
+        designation: "Manager",
+        company: "LSQ",
         image: Jamin,
       },
     ];
@@ -187,28 +199,75 @@
       {
         name: "Novvi Properties",
         description:
-          "Novvi properties Dubai's upcoming website features predictable google maps api location search, responsive mobile-first design, intuitive high end property listing designs, user OAuth login, and many more.",
+          "Novvi properties Dubai's upcoming website features predictable google maps api location search, responsive mobile-first design, and intuitive high end property listings.",
         tags: [
           {
-            name: "ReactJS",
+            name: "react",
             color: "blue-text-gradient",
           },
           {
-            name: "MaterialUI",
+            name: "materialUI",
             color: "green-text-gradient",
           },
           {
-            name: "Google-Maps-API",
+            name: "google-maps-api",
             color: "pink-text-gradient",
           },
-          {
-            name: "Salesforce-API",
-            color: "blue-text-gradient"
-          }
         ],
         image: novviMain,
         live_code_link: "https://www.tinyurl.com/novvi",
         source_code_link: "https://github.com/emmanuelRep/Novvi/tree/master",
+      },
+      {
+        name: 'LSQ',
+        description: 'LSQ is a leading supply chain finance firm. My tasks include the complete redesign and development of the main website, and active management of their angular applications.',
+        tags: [
+          {
+            name: 'angular',
+            color: "pink-text-gradient"
+          },
+          {
+            name: 'wordpress',
+            color: "blue-text-gradient"
+          },
+        ],
+        image: lsq1,
+        live_code_link: "https://lsq.com/",
+        source_code_link: "https://github.com/emmanuelRep/",
+      },
+      {
+        name: 'Qwil',
+        description: 'Qwil is an automated payments and liquidity provider. My tasks include the implementation of multi factor authentication for account users, and active management of their react ecosystem.',
+        tags: [
+          {
+            name: 'react',
+            color: "blue-text-gradient"
+          },
+          {
+            name: 'firebase',
+            color: "green-text-gradient"
+          },
+        ],
+        image: qwil1,
+        live_code_link: "https://app.qwil.com/",
+        source_code_link: "https://github.com/emmanuelRep/",
+      },
+      {
+        name: 'Napa',
+        description: 'Napa is a popular Thai restaurant and lounge based in Orlando. My tasks included the development of their new website and a custom implementation of a booking system.',
+        tags: [
+          {
+            name: 'wordpress',
+            color: "blue-text-gradient"
+          },
+          {
+            name: 'javascript',
+            color: "green-text-gradient"
+          },
+        ],
+        image: napa1,
+        live_code_link: "https://www.napavybes.com/",
+        source_code_link: "https://github.com/emmanuelRep/",
       },
       {
         name: "ITASC Solutions",
@@ -222,19 +281,7 @@
           {
             name: "Javascript",
             color: "green-text-gradient",
-          },
-          {
-            name: "HTML",
-            color: "pink-text-gradient",
-          },
-          {
-            name: "CSS",
-            color: "green-text-gradient",
-          },
-          {
-            name: "figma",
-            color: "pink-text-gradient"
-          },
+          }
           ],
         image: itascMain,
         live_code_link: 'https://itascsolutions.com/',
@@ -246,7 +293,7 @@
           "Movie land is an online movie database where users can go to find out information on past, present, and upcoming movie titles. It features the use of the OMDB API, and a highly responsive design",
         tags: [
           {
-            name: "ReactJS",
+            name: "react",
             color: "blue-text-gradient",
           },
           {
@@ -254,32 +301,13 @@
             color: "green-text-gradient",
           },
           {
-            name: "RestAPI",
+            name: "restAPI",
             color: "pink-text-gradient",
           },
         ],
         image: movieLand,
         live_code_link: "https://lustrous-gaufre-57b2e7.netlify.app/",
         source_code_link: "https://github.com/emmanuelRep/movieBase",
-
-      },
-
-      {
-        name: 'Meme Generator',
-        description: 'In Developement: A fun react web application that lets the user create their own memes for social media utilizing the Imgflip Rest API.',
-        tags: [
-          {
-            name: 'ReactJS',
-            color: "blue-text-gradient"
-          },
-          {
-            name: 'RestAPI',
-            color: "pink-text-gradient"
-          },
-        ],
-        image: memeGen,
-        live_code_link: "https://github.com/emmanuelRep/",
-        source_code_link: "https://github.com/emmanuelRep/",
       },
       {
         name: '365 Concierge',
@@ -293,7 +321,6 @@
         image: shot,
         source_code_link: 'https://github.com/emmanuelRep/',
         live_code_link: 'https://www.figma.com/file/bMtmp9ZwatPuvene3V1m8D/365-Dubai?type=design&node-id=0%3A1&mode=design&t=GC1dnSeUxIQUA16g-1',
-
       },
         
     ];

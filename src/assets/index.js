@@ -57,7 +57,19 @@ import novviMain from './novviMain.png';
 import shot from './365Shot.png';
 import memeGen from './memeGen.png';
 
+import angular from './Angular.png';
+import scss from './scss.png';
+import jira from './Jira.png';
+import nightwatch from './nightwatch-circle.png';
+import circleci from './circleci.png';
+import html5 from './html.png';
 
+import lsq from './company/lsq.webp';
+import qwil from './company/qwil.png';
+
+import napa1 from './napa1.png';
+import qwil1 from './qwil1.png';
+import lsq1 from './lsq1.png';
 
 export {
   data,
@@ -112,4 +124,15 @@ export {
   movieLand,
   shot,
   memeGen,
+  angular,
+  scss,
+  jira,
+  nightwatch,
+  circleci,
+  html5,
+  lsq,
+  qwil,
+  napa1,
+  qwil1,
+  lsq1
 };
