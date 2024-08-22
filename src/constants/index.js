@@ -134,44 +134,31 @@
     
     const experiences = [
       {
-        title: "Front-End Developer",
+        title: "Lead Front-End Developer",
         company_name: "LSQ",
         icon: lsq,
         iconBg: "#383E56",
         date: "September 2023 - Present",
         points: [
-          "Developing 150+ UI/UX designs into scalable and highly responsive usable angular applications to enhance the user experience of over 200+ clients and employees.",
-          "Participating in Agile/SCRUM meetings with project managers and UI/UX designers to obtain concise project directions in a SPRINT manner. Hence, ensuring consistent on-time project deliveries.",
-          "Integrating angular frontend components with .NET and Go APIs to consume data in a RESTful manner. Leading to advances and simplifications in user experience.",
-          "Integrated Snyk testing into the CI/CD pipeline to secure and prevent the deployments of over 1000 outdated dependencies to production.",
+          "Develop 150+ UI/UX designs into scalable, accessible, and highly responsive Angular and React applications, generating over $2 million in revenue.",
+          "Participate in agile/scrum meetings with stakeholders to architect client solutions, leading to over 20 new clients onboard.",
+          "Integrate frontend components with .NET, Go, NodeJS REST APIs and GraphQl to create data-rich applications, resulting in a 50% increase in client retention.",
+          "Integrate Snyk security to secure over 50 CI/CD code pipelines, which has increased pipeline security strength by over 80%.",
+          "Architect customer account security solutions after LSQ acquires Qwil, leading to a 100% drop in account breaches and half a million dollars in generated revenue.",
+          "Lead the front-end development of Qwil’s customer UI, resulting in a 95% drop in customer contract terminations.",
+          "Utilize NightwatchJS to unit and e2e test platform code for bug-free app deployments, which has decreased application outages by 80%."
         ],
       },
       {
-        title: "Front-End Developer",
-        company_name: "Qwil",
-        icon: qwil,
-        iconBg: "#383E56",
-        date: "October 2023 - Present",
-        points: [
-          "Collaborating with a team of backend developers to develop user-facing multi-factor authentication to strengthen user account security, leading to a 100% drop in payment account breaches.",
-          "Optimizing class-based react applications to speed up user account sign-in flow by 80%.",
-          "Leading front-end development of custom client-facing applications to personalize the experience of over 10 new clients.",
-          "Integrating Firebase and Django API with the front-end to secure new clients within Google Cloud.",
-          "Utilized Nightwatch JS for e2e and unit testing on projects to simulate user experience and ensure that 1000s of lines of code all function flawlessly."
-        ]
-      },
-      {
-        title: "Freelance UI and Front-End Developer",
-        company_name: "Contractor",
+        title: "Front-End Engineer and UI Designer",
+        company_name: "Independent Contractor",
         icon: Apex,
         iconBg: "#383E56",
-        date: "December 2021 – September 2023",
+        date: "July 2021 – September 2023",
         points: [
-          "Led Agile/SCRUM stakeholder meetings for over 4 clients to define project goals, and gather data-driven insights which sped up development and reduced delivery time by over 3 weeks.",
-          "Developed dynamic React.js applications to consume Salesforce API data for a leading Dubai-based real estate client, which resulted in the successful rendering of over 50 property listings for clients, and drove company interactions up by over 70%.",
-          "Employed GIT for versioning 1000s of lines of code. Hence, ensuring effective quality assurance and a 100% bug-free deployment.",
-          "Leveraged the Google Maps API to dynamically display over 50 real estate properties in an interactive map format, which enhanced user location-based search experience and a 100% increase in site traffic.",
-          "Utilized Material UI for cross-platform compatibility, ensuring consistent and responsive design across mobile and tablet versions for clients.",
+          "Architected React applications for over 5 businesses, increasing their revenue by over $200k.",
+          "Designed and developed data-rich REST APIs for client applications, leading to a 60% increase in customer growth.",
+          "Led agile/scrum meetings with stakeholders to define project scope which reduced development time by 40%.",
         ],
       },
     ];
