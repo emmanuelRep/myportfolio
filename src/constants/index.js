@@ -154,7 +154,7 @@
         company_name: "Independent Contractor",
         icon: Apex,
         iconBg: "#383E56",
-        date: "July 2021 – September 2023",
+        date: "July 2019 – September 2023",
         points: [
           "Architected React applications for over 5 businesses, increasing their revenue by over $200k.",
           "Designed and developed data-rich REST APIs for client applications, leading to a 60% increase in customer growth.",
