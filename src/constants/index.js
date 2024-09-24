@@ -214,7 +214,7 @@
             color: "pink-text-gradient"
           },
           {
-            name: 'wordpress',
+            name: 'react',
             color: "blue-text-gradient"
           },
         ],
@@ -244,11 +244,11 @@
         description: 'Napa is a popular Thai restaurant and lounge based in Orlando. My tasks included the development of their new website and a custom implementation of a booking system.',
         tags: [
           {
-            name: 'wordpress',
+            name: 'Next',
             color: "blue-text-gradient"
           },
           {
-            name: 'javascript',
+            name: 'typescript',
             color: "green-text-gradient"
           },
         ],
@@ -261,10 +261,6 @@
         description:
           "ITASC Solutions San Francisco's website features a highly intuitive site-map, search engine optimization, highly responsive design, and was designed specifically to cater to the B2B operation model of the organization.",
         tags: [
-          {
-            name: "wordpress",
-            color: "blue-text-gradient",
-          },
           {
             name: "Javascript",
             color: "green-text-gradient",
