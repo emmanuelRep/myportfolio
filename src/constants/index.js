@@ -151,7 +151,7 @@
       },
       {
         title: "Front-End Engineer and UI Designer",
-        company_name: "Independent Contractor",
+        company_name: "Contractor",
         icon: Apex,
         iconBg: "#383E56",
         date: "July 2019 – September 2023",
